@@ -1,1 +1,1 @@
-This project aims to identify
+This project aims to identify patterns that determine whether or not a game succeeds. We'll be using a dataset from 2016; that data will be used to create forecasts and then serve to plan a campaign.
