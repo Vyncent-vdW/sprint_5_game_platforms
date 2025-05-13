@@ -1,1 +1,73 @@
-This project aims to identify patterns that determine whether or not a game succeeds. We'll be using a dataset from 2016 and pretend that we are a global online video game store currently planning advertising campaigns for 2017, which is "next year".
+# 🎮 Game Success Predictor
+This project demonstrates expertise in "Machine Learning in Business" as part of TripleTen's Data Science program. It focuses on analyzing and predicting the success of video games using advanced data analysis techniques. The primary objectives are to deliver accurate success predictions, support decision-making in the gaming industry, and optimize marketing and development strategies.
+
+## 🚀 Features
+- **Data Preprocessing**: Cleaning and preparing video game sales and metadata for analysis.
+- **Exploratory Data Analysis (EDA)**: Identifying trends, patterns, and correlations in the gaming industry.
+- **Feature Engineering**: Customizing features to enhance prediction accuracy for game success.
+- **Region Analysis**: Analyzing game performance across different geographic regions to uncover regional preferences.
+- **Hypothesis Testing**: Validating assumptions about factors influencing game success using statistical methods.
+- **Business Insights**: Providing actionable recommendations for game development and marketing strategies based on data-driven findings.
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Vyncent-vdW/game_success.git
+
+# Navigate into the project directory
+cd game_success
+
+# (Optional) Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install required dependencies
+pip install -r requirements.txt
+```
+
+## 🛠️ Usage
+Run the Jupyter Notebook to explore the full workflow:
+
+```bash
+jupyter notebook games_df.ipynb
+``` 
+
+Key sections:
+
+- Load and preprocess the dataset to ensure data quality and consistency.
+- Conduct exploratory data analysis (EDA) to uncover trends, patterns, and relationships in the gaming industry.
+- Train and compare various regression models to identify the best-performing approach.
+- Assess model performance using metrics like RMSE and cross-validation.
+- Extract actionable insights to support decision-making and optimize game development and marketing strategies.
+
+## ✅ Requirements 
+- Python 3.8+
+- pandas
+- scikit-learn
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook 
+
+Install them with: 
+```bash
+pip install -r requirements.txt
+``` 
+
+## 🙋 Contributing
+Feel free to fork this repo and improve it. If you’ve got enhancements (e.g., better models, new features, business insights), submit a pull request:
+
+1. Fork the repo
+
+2. Create a new branch: git checkout -b feature-name
+
+3. Commit your changes: git commit -m "Add improvement"
+
+4. Push to your fork: git push origin feature-name
+
+5. Submit a pull request 
+
+## ✨ Acknowledgements 
+TripleTen Game Success dataset source: 
+
+- https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv
