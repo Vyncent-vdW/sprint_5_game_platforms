@@ -21,9 +21,12 @@ This project includes a variety of visualizations to support data-driven insight
 
 All visuals are generated within the Jupyter Notebook and can be customized for further exploration. 
 
+This visual illustrates the total sales trends for the top five gaming platforms across the years. It highlights how each platform's popularity and market share have changed over time, providing insights into industry shifts and consumer preferences.
+
 ![alt text](image-1.png) 
 
 
+This visual explores the life cycle of each gaming platform represented in the dataset. By analyzing the release and discontinuation periods, as well as sales trends over time, we can identify when platforms were most active and popular. Understanding these cycles helps contextualize game performance and market dynamics across different generations of gaming hardware.
 
 ![alt text](image-2.png) 
 
@@ -60,11 +63,10 @@ jupyter notebook games_df.ipynb
 
 Key sections:
 
-- Load and preprocess the dataset to ensure data quality and consistency.
-- Conduct exploratory data analysis (EDA) to uncover trends, patterns, and relationships in the gaming industry.
-- Train and compare various regression models to identify the best-performing approach.
-- Assess model performance using metrics like RMSE and cross-validation.
-- Extract actionable insights to support decision-making and optimize game development and marketing strategies.
+- Load and preprocess the dataset to ensure high data quality and consistency.
+- Perform exploratory data analysis (EDA) to identify key trends, patterns, and relationships in the gaming industry.
+- Conduct hypothesis testing to validate assumptions about factors influencing game success.
+- Generate actionable insights to guide decision-making and optimize strategies for game development and marketing.
 
 ## ✅ Requirements 
 - Python 3.8+
