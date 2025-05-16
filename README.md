@@ -29,6 +29,7 @@ All visuals are generated within the Jupyter Notebook and can be customized for 
 
 
 The dataset originally covers video game data from 1980 to 2016. However, to ensure that predictions for 2017 are based on the most relevant trends, the data has been filtered to include only entries from 2012 to 2016. 
+
 ![alt text](image.png) 
 
 
