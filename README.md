@@ -1,5 +1,5 @@
 # 🎮 Game Success Predictor
-This project demonstrates expertise in "Machine Learning in Business" as part of TripleTen's Data Science program. It focuses on analyzing and predicting the success of video games using advanced data analysis techniques. The primary objectives are to deliver accurate success predictions, support decision-making in the gaming industry, and optimize marketing and development strategies.
+This is the first integrated project as part of TripleTen's Data Science program. It focuses on analyzing and predicting the success of video games using advanced data analysis techniques. The primary objectives are to deliver accurate success predictions, support decision-making in the gaming industry, and optimize marketing and development strategies.
 
 ## 🚀 Features
 - **Data Preprocessing**: Cleaning and preparing video game sales and metadata for analysis.
@@ -7,7 +7,29 @@ This project demonstrates expertise in "Machine Learning in Business" as part of
 - **Feature Engineering**: Customizing features to enhance prediction accuracy for game success.
 - **Region Analysis**: Analyzing game performance across different geographic regions to uncover regional preferences.
 - **Hypothesis Testing**: Validating assumptions about factors influencing game success using statistical methods.
-- **Business Insights**: Providing actionable recommendations for game development and marketing strategies based on data-driven findings.
+- **Business Insights**: Providing actionable recommendations for game development and marketing strategies based on data-driven findings. 
+
+## 📊 Visuals
+
+This project includes a variety of visualizations to support data-driven insights:
+
+- **Sales Trends**: Line and bar charts showing sales performance over time and across regions.
+- **Genre Popularity**: Pie and bar charts illustrating the distribution of game genres.
+- **Correlation Heatmaps**: Visual representations of relationships between key features.
+- **Model Performance**: Plots comparing predicted vs. actual values and visualizing error metrics.
+- **Regional Analysis**: Maps and charts highlighting differences in game success by region.
+
+All visuals are generated within the Jupyter Notebook and can be customized for further exploration. 
+
+The dataset originally covers video game data from 1980 to 2016. However, to ensure that predictions for 2017 are based on the most relevant trends, the data has been filtered to include only entries from 2012 to 2016. 
+
+![alt text](image-1.png) 
+
+![alt text](image-2.png) 
+
+![alt text](image.png) 
+
+
 
 ## 📦 Installation
 
