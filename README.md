@@ -25,7 +25,9 @@ The dataset originally covers video game data from 1980 to 2016. However, to ens
 
 ![alt text](image-1.png) 
 
+
 ![alt text](image-2.png) 
+
 
 ![alt text](image.png) 
 
