@@ -70,9 +70,9 @@ Key sections:
 
 ## ✅ Requirements 
 - Python 3.8+
-- pandas
-- scikit-learn
-- NumPy
+- Pandas
+- Scipy
+- Numpy
 - Matplotlib / Seaborn
 - Jupyter Notebook 
 
